@@ -11,5 +11,7 @@
 
 ## How to Run the POC
 -pip install anthropic instructor pydantic
+
 -export ANTHROPIC_API_KEY="your_api-keys"
+
 -python clinical_decision_agent.py
