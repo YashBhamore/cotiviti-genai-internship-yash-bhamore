@@ -10,6 +10,6 @@
 - `Cotiviti_GenAI_Video_Yash_Bhamore.mp4` — Video recording
 
 ## How to Run the POC
-pip install anthropic instructor pydantic
-export ANTHROPIC_API_KEY="your_api-keys"
-python clinical_decision_agent.py
+-pip install anthropic instructor pydantic
+-export ANTHROPIC_API_KEY="your_api-keys"
+-python clinical_decision_agent.py
