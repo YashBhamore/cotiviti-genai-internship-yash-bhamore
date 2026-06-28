@@ -24,6 +24,9 @@ Given a patient case with symptoms, age, vitals, and history, the assistant:
 
 ## Files
 
+- `Cotiviti_GenAI_Report_Yash_Bhamore.docx` - Written report
+- `Cotiviti_GenAI_Deck_Yash_Bhamore.pptx` - Slide presentation
+- `Cotiviti_Bhamore_Meeting_Demo.mp4` - Demo video recording
 - `clinical_decision_agent.py` - Proof of concept code
 - `README.md` - Project overview and run instructions
 - `requirements.txt` - Python dependencies
